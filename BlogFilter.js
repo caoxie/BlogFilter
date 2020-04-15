@@ -8,7 +8,7 @@
 // @updateURL    https://github.com/caoxie/BlogFilter/blob/master/BlogFilter.js
 // @match        https://blog.csdn.net/*
 // @match        https://maimai.cn/article/detail?fid=\d+
-// @match        http://blog.didispace.com/[\w?,_]*
+// @match        http://blog.didispace.com/[\da-zA-Z]*
 // @run-at document-end
 // @grant        none
 // ==/UserScript==
