@@ -10,6 +10,7 @@
 // @copyright    2020-2020, AC
 // @require      http://code.jquery.com/jquery-2.1.1.min.js
 // @match        https://www.zhipin.com/*
+// @exclude      https://www.zhipin.com/[\S]*\.(js|css|png|jpg|icon|gif)[\S]*
 // @grant        GM_xmlhttpRequest
 // ==/UserScript==
 
