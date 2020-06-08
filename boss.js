@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BOSS直聘过滤
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  BOSS直聘过滤已谈过的boss
 // @author       张玉良
 // @home-url     https://greasyfork.org/zh-CN/scripts/404941
